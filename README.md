@@ -1,6 +1,9 @@
 # plant_store
 
-A new Flutter application.
+
+<img src="https://github.com/Homa-Shafiei/plant-store/blob/main/screenshot.png" width="800" height="550">
+
+A plant store ui Flutter project.
 
 ## Getting Started
 
